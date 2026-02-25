@@ -1,0 +1,3 @@
+# Vision 2
+
+I want to make a mobile prototype of this https://www.figma.com/design/Xvw06DqqFtl8WvndwrbAHC/Untitled?node-id=0-1&m=dev
